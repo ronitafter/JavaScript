@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "name": "Darth Vader",
+        "company": "evil.com",
+        "phone": "000-000-000"
+    },
+    {
+        "id": 1,
+        "name": "Yoda",
+        "company": "Fart Inc.",
+        "phone": "111-000-000"
+    },
+    {
+        "id": 1,
+        "name": "luke skywalker'",
+        "company": "Fuck",
+        "phone": "000-111-000"
+    }
+]
